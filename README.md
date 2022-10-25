@@ -25,4 +25,4 @@ Observations:
     All three models are overfitting
     Model 1 looks good performer in comparison on other models
 
-#### Disclaimer: This problem statement is been solved purely for purpose of learning and not to earn money.
+#### Disclaimer: This problem statement is been solved purely for purpose of learning and not to earn money. I am no way associated with DonorsChoose.org

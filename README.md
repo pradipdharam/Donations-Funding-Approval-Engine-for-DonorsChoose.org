@@ -9,3 +9,5 @@ As a result, model to solve below problem statement is build.
 How to scale current manual processes and resources to screen 500,000 projects so that they can be posted as quickly and as efficiently as possible?
 
 The goal of the competition is to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved, using the text of project descriptions as well as additional metadata about the project, teacher, and school. DonorsChoose.org can then use this information to identify projects most likely to need further review before approval.
+
+#### Disclaimer: This problem statement is been solved purely for purpose of learning and not to earn money.
